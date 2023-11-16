@@ -1,1 +1,1 @@
-Responsive in website by Bootstrap and HTML.
+Responsive in website by using Bootstrap and HTML.
